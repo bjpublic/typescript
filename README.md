@@ -1,4 +1,4 @@
-# typescript
+# 타입스크립트, AWS 서버리스로 
 
  - http://www.yes24.com/Product/Goods/84793216
  - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190014595&orderClick=LEa&Kc=
